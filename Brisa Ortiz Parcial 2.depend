@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1686332684 source:c:\users\brisa\desktop\practica parcial 2\brisa ortiz parcial 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"time.h"
+	<strings.h>
+
